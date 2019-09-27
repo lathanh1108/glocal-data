@@ -1,0 +1,1571 @@
+{
+    "shopping_menu": [
+        {
+            "id": 1,
+            "name": "Motorcycle Parts",
+            "child": [
+                {
+                    "id": 1,
+                    "name": "Exhausts"
+                },
+                {
+                    "id": 2,
+                    "name": "Bodyworks"
+                },
+                {
+                    "id": 3,
+                    "name": "Electrical"
+                },
+                {
+                    "id": 4,
+                    "name": "Frames / Protections"
+                },
+                {
+                    "id": 5,
+                    "name": "Engine Parts"
+                },
+                {
+                    "id": 6,
+                    "name": "Tires"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Accessories",
+            "child": null
+        },
+        {
+            "id": 3,
+            "name": "Tools",
+            "child": null
+        },
+        {
+            "id": 4,
+            "name": "Brands",
+            "child": null
+        },
+        {
+            "id": 5,
+            "name": "Reviews",
+            "child": null
+        }
+    ],
+    "langs": [
+        {
+            "id": 1,
+            "value": "en",
+            "label": "English"
+        },
+        {
+            "id": 2,
+            "value": "vi",
+            "label": "Vietnamese"
+        }
+    ],
+    "banners": [
+        {
+            "url": "",
+            "image": "/img/test/banner/image.png"
+        },
+        {
+            "url": "",
+            "image": "/img/test/banner/banner_01.jpg"
+        },
+        {
+            "url": "",
+            "image": "/img/test/banner/banner_02.jpg"
+        },
+        {
+            "url": "",
+            "image": "/img/test/banner/banner_03.jpg"
+        }
+    ],
+    "slide_info": [
+        {
+            "id": 1,
+            "content": "Over 2,000,000 Items, 1,500 Brands",
+            "image": "/img/test/icon/side-info.png",
+            "icon": "icon-1"
+        },
+        {
+            "id": 2,
+            "content": "100% Genuine Quality",
+            "image": "/img/test/icon/side-info.png",
+            "icon": "icon-2"
+        },
+        {
+            "id": 3,
+            "content": "Multiple Payment Option",
+            "image": "/img/test/icon/side-info.png",
+            "icon": "icon-3"
+        },
+        {
+            "id": 4,
+            "content": "Reliable Shipping Carrier",
+            "image": "/img/test/icon/side-info.png",
+            "icon": "icon-4"
+        },
+        {
+            "id": 5,
+            "content": "7 (30) Days Return & Refund",
+            "image": "/img/test/icon/side-info.png",
+            "icon": "icon-5"
+        }
+    ],
+    "product_list": [
+        {
+            "id": 1,
+            "image": "/img/test/products/product_01.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+            "brand": "SHOEI",
+            "price": 29329,
+            "price_format": "29,329",
+            "price_old": 32329,
+            "price_old_format": "32,329",
+            "rating": 3.5,
+            "review_count": 4,
+            "instock": true,
+            "is_stock": true
+        },
+        {
+            "id": 2,
+            "image": "/img/test/products/product_02.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+            "brand": "SHOEI",
+            "price": 29329,
+            "price_format": "29,329",
+            "price_old": 32329,
+            "price_old_format": "32,329",
+            "rating": null,
+            "review_count": null,
+            "instock": false,
+            "is_stock": true
+        },
+        {
+            "id": 3,
+            "image": "/img/test/products/product_03.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+            "brand": "SHOEI",
+            "price": 29329,
+            "price_format": "29,329",
+            "price_old": 32329,
+            "price_old_format": "32,329",
+            "rating": 3.5,
+            "review_count": 4,
+            "instock": false,
+            "is_stock": false
+        },
+        {
+            "id": 4,
+            "image": "/img/test/products/product_04.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+            "brand": "SHOEI",
+            "price": 29329,
+            "price_format": "29,329",
+            "price_old": 32329,
+            "price_old_format": "32,329",
+            "rating": 3.5,
+            "review_count": 4,
+            "instock": true,
+            "is_stock": false
+        }
+    ],
+    "manufacturer_list": [
+        {
+            "id": 1,
+            "name": "Maker 1"
+        },
+        {
+            "id": 2,
+            "name": "Maker 2"
+        },
+        {
+            "id": 3,
+            "name": "Maker 3"
+        },
+        {
+            "id": 4,
+            "name": "Maker 4"
+        },
+        {
+            "id": 5,
+            "name": "Maker 5"
+        }
+    ],
+    "displacement_list": [
+        {
+            "id": 1,
+            "name": "Displacement 1"
+        },
+        {
+            "id": 2,
+            "name": "Displacement 2"
+        },
+        {
+            "id": 3,
+            "name": "Displacement 3"
+        },
+        {
+            "id": 34,
+            "name": "Displacement 4"
+        },
+        {
+            "id": 5,
+            "name": "Displacement 5"
+        }
+    ],
+    "model_list": [
+        {
+            "id": 1,
+            "name": "Model 1"
+        },
+        {
+            "id": 2,
+            "name": "Model 2"
+        },
+        {
+            "id": 3,
+            "name": "Model 3"
+        },
+        {
+            "id": 4,
+            "name": "Model 4"
+        },
+        {
+            "id": 5,
+            "name": "Model 5"
+        }
+    ],
+    "brand_list": [
+        {
+            "id": 1,
+            "name": "Honda",
+            "image": "/img/brand/ico-honda.png"
+        },
+        {
+            "id": 2,
+            "name": "Honda",
+            "image": "/img/brand/ico-honda.png"
+        },
+        {
+            "id": 3,
+            "name": "Honda",
+            "image": "/img/brand/ico-honda.png"
+        },
+        {
+            "id": 4,
+            "name": "Honda",
+            "image": "/img/brand/ico-honda.png"
+        },
+        {
+            "id": 5,
+            "name": "Honda",
+            "image": "/img/brand/ico-honda.png"
+        },
+        {
+            "id": 6,
+            "name": "Honda",
+            "image": "/img/brand/ico-honda.png"
+        }
+    ],
+    "hot_search_key": [
+        "Hot key 1",
+        "Hot key 2",
+        "Hot key 3",
+        "Hot key 4",
+        "Hot key 5",
+        "Hot key 6",
+        "Hot key 7",
+        "Hot key 8",
+        "Hot key 9",
+        "Hot key 10"
+    ],
+    "category_list": [
+        {
+            "id": 1,
+            "name": "Exhausts",
+            "icon": "/img/test/products/category-01.png"
+        },
+        {
+            "id": 2,
+            "name": "Engine parts",
+            "icon": "/img/test/products/category-02.png"
+        },
+        {
+            "id": 3,
+            "name": "Brakes",
+            "icon": "/img/test/products/category-03.png"
+        },
+        {
+            "id": 4,
+            "name": "Accessories",
+            "icon": "/img/test/products/category-04.png"
+        },
+        {
+            "id": 5,
+            "name": "Helmets",
+            "icon": "/img/test/products/category-05.png"
+        },
+        {
+            "id": 6,
+            "name": "Bodywork",
+            "icon": "/img/test/products/category-06.png"
+        },
+        {
+            "id": 7,
+            "name": "Handle & Control",
+            "icon": "/img/test/products/category-07.png"
+        },
+        {
+            "id": 8,
+            "name": "Electrical",
+            "icon": "/img/test/products/category-08.png"
+        },
+        {
+            "id": 9,
+            "name": "Motorcycle Gear",
+            "icon": "/img/test/products/category-09.png"
+        },
+        {
+            "id": 10,
+            "name": "Tools",
+            "icon": "/img/test/products/category-10.png"
+        }
+    ],
+    "shopping_info": {
+        "content": "[08/08/2019] Notice of the temporary website shutdown due to server maintenance ; [29/07/2019] Partial closure of Webike inquiry window"
+    },
+    "new_arrival": [
+        {
+            "id": 1,
+            "image": "/img/test/products/product_01.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet"
+        },
+        {
+            "id": 2,
+            "image": "/img/test/products/product_02.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet"
+        },
+        {
+            "id": 3,
+            "image": "/img/test/products/product_03.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet"
+        },
+        {
+            "id": 4,
+            "image": "/img/test/products/product_04.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet"
+        }
+    ],
+    "brand_recommended": [
+        {
+            "id": 1,
+            "image": "/img/test/brand/brand-recommended-01.png",
+            "name": "Accessories"
+        },
+        {
+            "id": 2,
+            "image": "/img/test/brand/brand-recommended-02.png",
+            "name": "Accessories"
+        },
+        {
+            "id": 3,
+            "image": "/img/test/brand/brand-recommended-01.png",
+            "name": "Accessories"
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "image": "/img/test/image.png",
+            "title": "เคล็ดลับยอดนิยมสำหรับการเลือกหมวกกันน็อคให้สรเลือกหมวกกันน็อคให้สรเลือกหมวกกันน็อคให้สมบูรณ์แบบ!!!"
+        },
+        {
+            "id": 2,
+            "image": "/img/test/image.png",
+            "title": "เคล็ดลับยอดนิยมสำหรับการเลือกหมวกกันน็อคให้สรเลือกหมวกกันน็อคใกกันน็อคให้สรเลือกหมวกกันน็อคให้สรเลือกหมวกกันน็อคให้สมบูรณ์แบบ!!!"
+        },
+        {
+            "id": 3,
+            "image": "/img/test/image.png",
+            "title": "เคล็ดลับยอดนิยมสำหรับการเลืรเลือกหมวกกันน็อคให้สมบูรณ์แบบ!!!"
+        },
+        {
+            "id": 4,
+            "image": "/img/test/image.png",
+            "title": "เคล็ดลับยอดนิยมสำหรับการเลือกหมวกกันน็อคให้สรเลือกหมวกกันน็อคให้สรเลือกหมวกกันน็อคให้สมบูรณ์แบบ!!!"
+        }
+    ],
+    "ads": {
+        "url": "https://thai.webike.net",
+        "image": "/img/test/webike/banner-wb-01.png"
+    },
+    "products_recommended": [
+        {
+            "id": 1,
+            "image": "/img/test/products/product_01.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+            "brand": "SHOEI",
+            "price": 29329,
+            "price_format": "29,329",
+            "price_old": 32329,
+            "price_old_format": "32,329",
+            "rating": 3.5,
+            "review_count": 4
+        },
+        {
+            "id": 2,
+            "image": "/img/test/products/product_02.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+            "brand": "SHOEI",
+            "price": 29329,
+            "price_format": "29,329",
+            "price_old": 32329,
+            "price_old_format": "32,329",
+            "rating": 3.5,
+            "review_count": 4
+        },
+        {
+            "id": 3,
+            "image": "/img/test/products/product_03.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+            "brand": "SHOEI",
+            "price": 29329,
+            "price_format": "29,329",
+            "price_old": 32329,
+            "price_old_format": "32,329",
+            "rating": 3.5,
+            "review_count": 4
+        },
+        {
+            "id": 4,
+            "image": "/img/test/products/product_04.jpg",
+            "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+            "brand": "SHOEI",
+            "price": 29329,
+            "price_format": "29,329",
+            "price_old": 32329,
+            "price_old_format": "32,329",
+            "rating": 3.5,
+            "review_count": 4
+        }
+    ],
+    "manufacturers": [
+        {
+            "id": 1,
+            "name": "Honda"
+        },
+        {
+            "id": 2,
+            "name": "Yamaha"
+        },
+        {
+            "id": 3,
+            "name": "Suzuki"
+        },
+        {
+            "id": 4,
+            "name": "Kawasaki"
+        },
+        {
+            "id": 5,
+            "name": "Harley-Davidson"
+        },
+        {
+            "id": 6,
+            "name": "Ducati"
+        },
+        {
+            "id": 7,
+            "name": "Bmw"
+        },
+        {
+            "id": 1,
+            "name": "Aprilia"
+        },
+        {
+            "id": 1,
+            "name": "Triumph"
+        }
+    ],
+    "brands": [
+        {
+            "id": 1,
+            "name": "Yoshimura Asia"
+        },
+        {
+            "id": 2,
+            "name": "Yoshimura Japan"
+        },
+        {
+            "id": 3,
+            "name": "Yss"
+        },
+        {
+            "id": 4,
+            "name": "Ohlins"
+        },
+        {
+            "id": 5,
+            "name": "Bikers"
+        },
+        {
+            "id": 6,
+            "name": "Daytona"
+        },
+        {
+            "id": 7,
+            "name": "Sp takegawa"
+        },
+        {
+            "id": 8,
+            "name": "Kitaco"
+        },
+        {
+            "id": 9,
+            "name": "Tyga"
+        },
+        {
+            "id": 10,
+            "name": "Honda h2c"
+        },
+        {
+            "id": 11,
+            "name": "Yamaha Accessories"
+        },
+        {
+            "id": 12,
+            "name": "Kawasaki Accessories"
+        },
+        {
+            "id": 13,
+            "name": "Suzuki Accessories"
+        }
+    ],
+    "motor_parts": [
+        {
+            "id": 1,
+            "name": "Exhausts"
+        },
+        {
+            "id": 2,
+            "name": "Bodyworks"
+        },
+        {
+            "id": 3,
+            "name": "Electrical"
+        },
+        {
+            "id": 4,
+            "name": "Frames / Protections"
+        },
+        {
+            "id": 5,
+            "name": "Engine Parts"
+        },
+        {
+            "id": 6,
+            "name": "Tires"
+        },
+        {
+            "id": 7,
+            "name": "Suspensions / Rearsets / Wheels / Swingrams"
+        },
+        {
+            "id": 8,
+            "name": "Handles & Control Parts"
+        },
+        {
+            "id": 9,
+            "name": "Drive Parts"
+        },
+        {
+            "id": 10,
+            "name": "Brakers"
+        }
+    ],
+    "motor_gears": [
+        {
+            "id": 1,
+            "name": "Sunglasses"
+        },
+        {
+            "id": 2,
+            "name": "Motorcycle Jackets"
+        },
+        {
+            "id": 3,
+            "name": "Bags"
+        },
+        {
+            "id": 4,
+            "name": "T-Shirts"
+        },
+        {
+            "id": 5,
+            "name": "Motorcycle Casual Clothing"
+        },
+        {
+            "id": 6,
+            "name": "Heated Gear"
+        },
+        {
+            "id": 7,
+            "name": "Gilets / Vests"
+        },
+        {
+            "id": 8,
+            "name": "Face Masks"
+        },
+        {
+            "id": 9,
+            "name": "Warm Goods"
+        },
+        {
+            "id": 10,
+            "name": "Cooling Goods"
+        },
+        {
+            "id": 11,
+            "name": "Dirt Bike Motocross Gear"
+        },
+        {
+            "id": 12,
+            "name": "Caps / Hats"
+        },
+        {
+            "id": 13,
+            "name": "Pants"
+        },
+        {
+            "id": 14,
+            "name": "Racing Suits"
+        },
+        {
+            "id": 15,
+            "name": "Footwear"
+        },
+        {
+            "id": 16,
+            "name": "Other Motorcycle Gear"
+        },
+        {
+            "id": 17,
+            "name": "Mid Layers"
+        },
+        {
+            "id": 18,
+            "name": "Gloves"
+        },
+        {
+            "id": 19,
+            "name": "Rainwears"
+        },
+        {
+            "id": 20,
+            "name": "Protectors"
+        }
+    ],
+    "accessiores": [
+        {
+            "id": 1,
+            "name": "Security"
+        },
+        {
+            "id": 2,
+            "name": "Motorcycle Luggages"
+        },
+        {
+            "id": 3,
+            "name": "Electrical"
+        },
+        {
+            "id": 4,
+            "name": "Motorcycle Goods"
+        },
+        {
+            "id": 5,
+            "name": "Trailer / Towing / Winches"
+        },
+        {
+            "id": 6,
+            "name": "Touring Accessories"
+        },
+        {
+            "id": 7,
+            "name": "Others"
+        }
+    ],
+    "helmets": [
+        {
+            "id": 1,
+            "name": "Full Face Helmets"
+        },
+        {
+            "id": 2,
+            "name": "Modular Helmets"
+        },
+        {
+            "id": 3,
+            "name": "Shield / Visors"
+        },
+        {
+            "id": 4,
+            "name": "Helmet Liners / Option parts"
+        },
+        {
+            "id": 5,
+            "name": "Open Face Helmets"
+        },
+        {
+            "id": 6,
+            "name": "Half Helmets"
+        },
+        {
+            "id": 7,
+            "name": "Dirtbike Helmets"
+        },
+        {
+            "id": 8,
+            "name": "Other Helmet Parts"
+        },
+        {
+            "id": 9,
+            "name": "Helmet Locks"
+        }
+    ],
+    "tools": [
+        {
+            "id": 1,
+            "name": "By Brands"
+        },
+        {
+            "id": 2,
+            "name": "Hand tools"
+        },
+        {
+            "id": 3,
+            "name": "Electrical Wiring Tools"
+        },
+        {
+            "id": 4,
+            "name": "Electric Tools"
+        },
+        {
+            "id": 5,
+            "name": "Air Tools"
+        },
+        {
+            "id": 6,
+            "name": "Instrumentation Tools"
+        },
+        {
+            "id": 7,
+            "name": "Polishing Tools"
+        },
+        {
+            "id": 8,
+            "name": "Tool Boxes / Cases / Bags"
+        },
+        {
+            "id": 9,
+            "name": "Tool Sets"
+        },
+        {
+            "id": 10,
+            "name": "Garage Equipments"
+        },
+        {
+            "id": 11,
+            "name": "Expendables"
+        },
+        {
+            "id": 12,
+            "name": "Electrical Wiring"
+        },
+        {
+            "id": 13,
+            "name": "Motorcycle Specialized Tools"
+        },
+        {
+            "id": 14,
+            "name": "Power Generators"
+        },
+        {
+            "id": 15,
+            "name": "Other Tools"
+        },
+        {
+            "id": 16,
+            "name": "Mechanic Wear"
+        },
+        {
+            "id": 17,
+            "name": "Maintenance Accessory"
+        },
+        {
+            "id": 18,
+            "name": "Specialized Tools"
+        },
+        {
+            "id": 19,
+            "name": "Tire Tools"
+        },
+        {
+            "id": 20,
+            "name": "Chain Tools"
+        },
+        {
+            "id": 21,
+            "name": "Measurement Tools"
+        },
+        {
+            "id": 22,
+            "name": "Battery Chargers"
+        },
+        {
+            "id": 23,
+            "name": "Carburetor Tools"
+        }
+    ],
+    "recently_search": [
+        {
+            "name": "CRF50F"
+        },
+        {
+            "name": "CROSS CUB 50"
+        },
+        {
+            "name": "CT50 Motra"
+        },
+        {
+            "name": "CT50 [HUNTER CUB]"
+        }
+    ],
+    "category_detail": {
+        "id": 2,
+        "name": "Helmets",
+        "sub_categories": [
+            {
+                "id": 1,
+                "name": "Full Face Helmets",
+                "product_num": "100,751",
+                "image": "/img/test/products/sub-category-01.png"
+            },
+            {
+                "id": 2,
+                "name": "Open Face Helmets",
+                "product_num": "2,825",
+                "image": "/img/test/products/sub-category-02.png"
+            },
+            {
+                "id": 3,
+                "name": "Half Helmets",
+                "product_num": "721",
+                "image": "/img/test/products/sub-category-03.png"
+            },
+            {
+                "id": 4,
+                "name": "Dirtbike Helmets",
+                "product_num": "723",
+                "image": "/img/test/products/sub-category-04.png"
+            },
+            {
+                "id": 5,
+                "name": "Other Helmet Parts",
+                "product_num": "2,825",
+                "image": "/img/test/products/sub-category-05.png"
+            },
+            {
+                "id": 6,
+                "name": "Helmet Locks",
+                "product_num": "2,825",
+                "image": "/img/test/products/sub-category-06.png"
+            },
+            {
+                "id": 7,
+                "name": "Modular Helmets",
+                "product_num": "100,751",
+                "image": "/img/test/products/sub-category-07.png"
+            },
+            {
+                "id": 8,
+                "name": "Shield / Visors",
+                "product_num": "100,751",
+                "image": "/img/test/products/sub-category-08.png"
+            },
+            {
+                "id": 9,
+                "name": "Helmet Liners / Option parts",
+                "product_num": "100,751",
+                "image": "/img/test/products/sub-category-09.png"
+            }
+        ]
+    },
+    "input_search_result": {
+        "categories": [
+            {
+                "sub_category": "Full Face Helmets",
+                "sub_category_id": 1,
+                "brand": "Shark helmet",
+                "brand_id": 1
+            },
+            {
+                "sub_category": "Open Face Helmets",
+                "sub_category_id": 2,
+                "brand": "Shark helmet",
+                "brand_id": 1
+            },
+            {
+                "sub_category": "Dirbike Helmets",
+                "sub_category_id": 3,
+                "brand": "Shark helmet",
+                "brand_id": 1
+            },
+            {
+                "sub_category": "Other Helmets Parts",
+                "sub_category_id": 4,
+                "brand": "Shark helmet",
+                "brand_id": 1
+            },
+            {
+                "sub_category": "Modular Helmets",
+                "sub_category_id": 5,
+                "brand": "Shark helmet",
+                "brand_id": 1
+            }
+        ],
+        "brands": [
+            {
+                "id": 1,
+                "name": "Shark helmet"
+            },
+            {
+                "id": 2,
+                "name": "Bandit Helmet"
+            },
+            {
+                "id": 3,
+                "name": "MT HELMETS"
+            },
+            {
+                "id": 4,
+                "name": "Scorpion helmet"
+            },
+            {
+                "id": 5,
+                "name": "HelmetLok"
+            }
+        ]
+    },
+    "product_detail": {
+        "id": 6969,
+        "name": "Machine Bended GP-MAGNUM CYCLONE EXPORT SPEC Japanese Government Certified",
+        "images": [
+            "/img/test/products/product_02.jpg",
+            "/img/test/products/product_03.jpg",
+            "/img/test/products/product_04.jpg",
+            "/img/test/products/product_01.jpg"
+        ],
+        "thumb": "/img/test/products/bike-02.png",
+        "product_number": "1TP-F16J2-V0-00",
+        "is_new": true,
+        "is_stock": true,
+        "in_stock": true,
+        "in_stock_amount": 1,
+        "price": 371.33,
+        "price_format": "371.33",
+        "price_old": 476.77,
+        "price_old_format": "476.77",
+        "unit": "USD",
+        "wb_point": 458,
+        "sizes": [
+            {
+                "id": 1,
+                "value": "Size S"
+            },
+            {
+                "id": 2,
+                "value": "Size M"
+            },
+            {
+                "id": 3,
+                "value": "Size L"
+            }
+        ],
+        "brand": {
+            "id": 1,
+            "name": "YOSHIMURA",
+            "icon": "/img/test/brand/brand-01.png"
+        },
+        "estimated_arrival": "10/05/2019 Fri",
+        "fitment": [
+            {
+                "icon": "/img/test/brand/brand-03.png",
+                "name": "Honda",
+                "model": [
+                    "MONKEY125 18 2BJ-JB02 [Engine model] JB02E",
+                    "MSX 125 (GROM) (35)"
+                ]
+            },
+            {
+                "icon": "/img/test/brand/brand-05.png",
+                "name": "Yamaha",
+                "model": [
+                    "MONKEY125 18 2BJ-JB02 [Engine model] JB02E",
+                    "MSX 125 (GROM) (35)"
+                ]
+            },
+            {
+                "icon": "/img/test/brand/brand-05.png",
+                "name": "Yamaha",
+                "model": [
+                    "MONKEY125 18 2BJ-JB02 [Engine model] JB02E",
+                    "MSX 125 (GROM) (35)"
+                ]
+            },
+            {
+                "icon": "/img/test/brand/brand-05.png",
+                "name": "Yamaha",
+                "model": [
+                    "MONKEY125 18 2BJ-JB02 [Engine model] JB02E",
+                    "MSX 125 (GROM) (35)"
+                ]
+            },
+            {
+                "icon": "/img/test/brand/brand-05.png",
+                "name": "Yamaha",
+                "model": [
+                    "MONKEY125 18 2BJ-JB02 [Engine model] JB02E",
+                    "MSX 125 (GROM) (35)"
+                ]
+            }
+        ],
+        "specification": "Made in USA:- \nExclusive Design:○ \nStyle:OEM repair\nType:BlinkerStem\n\n\nMADE IN THE U.S.A.:No\nSPECIFIC APPLICATION:Yes\nSTYLE:OEM Replacement\nTYPE:Turn Signal Stem\nTYPE:Turn Signal Stem\nTYPE:Turn Signal Stem\nTYPE:Turn Signal Stem\nTYPE:Turn Signal Stem\nTYPE:Turn Signal Stem",
+        "description": "Proin vitae ultricies nibh, at pretium nibh. Morbi quis volutpat felis, nec tincidunt ligula. Nam laoreet malesuada aliquam. Phasellus porta lacinia leo, id ultricies odio vestibulum eu. Cras id ante et tortor consequat rutrum. Pellentesque dapibus laoreet mauris, non posuere quam blandit eget. Suspendisse et mollis nisi, ac consequat erat. Maecenas et eros elit. Integer odio turpis, pellentesque vel ornare quis, lacinia quis justo. Integer aliquet auctor ornare.\n\nPraesent porttitor tincidunt consequat. Aenean at magna et libero pulvinar lobortis. Mauris a vehicula elit, non volutpat risus. Nulla eu facilisis ante. Praesent ac quam tristique.",
+        "note": [
+            "The side cover of the picture is not included in the product contents.",
+            "The side cover (sold separately) is currently under development."
+        ],
+        "caution": "The side cover of the picture is not included in the product contents.",
+        "customer_review": {
+            "total_rating": 4.5,
+            "total_review": 3,
+            "reviews": [
+                {
+                    "id": 1,
+                    "title": "Un casque fantastique !!!",
+                    "content": "The final replica model of the 'Dani Pedrosa' from the Spain who fought as the world's top riders for 13-years",
+                    "avatar": "/img/categories/controls.jpg",
+                    "rating": 4.7,
+                    "user_name": "Webike user",
+                    "time": "20/03/2019",
+                    "images": null
+                },
+                {
+                    "id": 2,
+                    "title": "Un casque fantastique !!!",
+                    "content": "The final replica model of the 'Dani Pedrosa' from the Spain who fought as the world's top riders for 13-years",
+                    "avatar": "/img/categories/controls.jpg",
+                    "rating": 3.5,
+                    "user_name": "Webike user yolo",
+                    "time": "20/03/2019",
+                    "images": [
+                        "/img/test/products/product_01.jpg",
+                        "/img/test/products/product_02.jpg",
+                        "/img/test/products/product_03.jpg"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Un casque fantastique !!!",
+                    "content": "The final replica model of the 'Dani Pedrosa' from the Spain who fought as the world's top riders for 13-years",
+                    "avatar": "/img/categories/controls.jpg",
+                    "rating": 3.5,
+                    "user_name": "Webike user yolo",
+                    "time": "20/03/2019",
+                    "images": [
+                        "/img/test/products/product_04.jpg",
+                        "/img/test/products/product_05.jpg"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Un casque fantastique !!!",
+                    "content": "The final replica model of the 'Dani Pedrosa' from the Spain who fought as the world's top riders for 13-years",
+                    "avatar": "/img/categories/controls.jpg",
+                    "rating": 3.5,
+                    "user_name": "Webike user yolo",
+                    "time": "20/03/2019",
+                    "images": null
+                }
+            ]
+        },
+        "selects": [
+            {
+                "id": 1,
+                "name": "Lens Color",
+                "options": [
+                    {
+                        "id": 2344,
+                        "name": "Lens Color: Clear",
+                        "price": 365.4,
+                        "is_stock": true,
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2345,
+                        "name": "Lens Color: Orange",
+                        "price": 365.4,
+                        "is_stock": false,
+                        "in_stock": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Specifications",
+                "options": [
+                    {
+                        "id": 2346,
+                        "name": "Type: SS (Stainless Steel Cover)/Weight: 2.7kg (STD: 5.0kg)",
+                        "price": 365.4,
+                        "is_stock": true,
+                        "in_stock": false
+                    },
+                    {
+                        "id": 2347,
+                        "name": "Type: SS (Stainless Steel Cover)/Weight: 2.9kg (STD: 6.0kg)",
+                        "price": 365.4,
+                        "is_stock": true,
+                        "in_stock": true
+                    }
+                ]
+            }
+        ]
+    },
+    "search_result": {
+        "total_result": 2000,
+        "products": [
+            {
+                "id": 1,
+                "image": "/img/test/products/product_01.jpg",
+                "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+                "brand": "SHOEI",
+                "price": 29329,
+                "price_format": "29,329",
+                "price_old": 32329,
+                "price_old_format": "32,329",
+                "rating": 3.5,
+                "review_count": 4,
+                "instock": true,
+                "is_stock": true,
+                "exp": "Fitment: MONKEY125 18 2BJ-JB02<br>Japanese Government Certified Exhaust System, JMCA Certified.Japanese Emissions Regulation Corresponding Pro..."
+            },
+            {
+                "id": 2,
+                "image": "/img/test/products/product_02.jpg",
+                "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+                "brand": "SHOEI",
+                "price": 29329,
+                "price_format": "29,329",
+                "price_old": 32329,
+                "price_old_format": "32,329",
+                "rating": null,
+                "review_count": null,
+                "instock": false,
+                "is_stock": true,
+                "exp": "Fitment: MONKEY125 18 2BJ-JB02<br>Japanese Government Certified Exhaust System, JMCA Certified.Japanese Emissions Regulation Corresponding Pro..."
+            },
+            {
+                "id": 3,
+                "image": "/img/test/products/product_03.jpg",
+                "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+                "brand": "SHOEI",
+                "price": 29329,
+                "price_format": "29,329",
+                "price_old": 32329,
+                "price_old_format": "32,329",
+                "rating": 3.5,
+                "review_count": 4,
+                "instock": false,
+                "is_stock": false,
+                "exp": "Fitment: MONKEY125 18 2BJ-JB02<br>Japanese Government Certified Exhaust System, JMCA Certified.Japanese Emissions Regulation Corresponding Pro..."
+            },
+            {
+                "id": 4,
+                "image": "/img/test/products/product_04.jpg",
+                "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+                "brand": "SHOEI",
+                "price": 29329,
+                "price_format": "29,329",
+                "price_old": 32329,
+                "price_old_format": "32,329",
+                "rating": 3.5,
+                "review_count": 4,
+                "instock": true,
+                "is_stock": false,
+                "exp": "Fitment: MONKEY125 18 2BJ-JB02<br>Japanese Government Certified Exhaust System, JMCA Certified.Japanese Emissions Regulation Corresponding Pro..."
+            },
+            {
+                "id": 5,
+                "image": "/img/test/products/product_02.jpg",
+                "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+                "brand": "SHOEI",
+                "price": 29329,
+                "price_format": "29,329",
+                "price_old": 32329,
+                "price_old_format": "32,329",
+                "rating": null,
+                "review_count": null,
+                "instock": false,
+                "is_stock": true,
+                "exp": "Fitment: MONKEY125 18 2BJ-JB02<br>Japanese Government Certified Exhaust System, JMCA Certified.Japanese Emissions Regulation Corresponding Pro..."
+            },
+            {
+                "id": 6,
+                "image": "/img/test/products/product_03.jpg",
+                "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+                "brand": "SHOEI",
+                "price": 29329,
+                "price_format": "29,329",
+                "price_old": 32329,
+                "price_old_format": "32,329",
+                "rating": 3.5,
+                "review_count": 4,
+                "instock": false,
+                "is_stock": false,
+                "exp": "Fitment: MONKEY125 18 2BJ-JB02<br>Japanese Government Certified Exhaust System, JMCA Certified.Japanese Emissions Regulation Corresponding Pro..."
+            },
+            {
+                "id": 7,
+                "image": "/img/test/products/product_04.jpg",
+                "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+                "brand": "SHOEI",
+                "price": 29329,
+                "price_format": "29,329",
+                "price_old": 32329,
+                "price_old_format": "32,329",
+                "rating": 3.5,
+                "review_count": 4,
+                "instock": true,
+                "is_stock": false,
+                "exp": "Fitment: MONKEY125 18 2BJ-JB02<br>Japanese Government Certified Exhaust System, JMCA Certified.Japanese Emissions Regulation Corresponding Pro..."
+            },
+            {
+                "id": 8,
+                "image": "/img/test/products/product_04.jpg",
+                "name": "X-14 DAIJIRO [TC-1 RED/BLUE] Helmet",
+                "brand": "SHOEI",
+                "price": 29329,
+                "price_format": "29,329",
+                "price_old": 32329,
+                "price_old_format": "32,329",
+                "rating": 3.5,
+                "review_count": 4,
+                "instock": true,
+                "is_stock": false,
+                "exp": "Fitment: MONKEY125 18 2BJ-JB02<br>Japanese Government Certified Exhaust System, JMCA Certified.Japanese Emissions Regulation Corresponding Pro..."
+            }
+        ]
+    },
+    "search_filter": {
+        "min_price": 500,
+        "max_price": 3450,
+        "brands": {
+            "total": 267,
+            "list": [
+                {
+                    "id": 1,
+                    "name": "Arlen ness",
+                    "total": 67
+                },
+                {
+                    "id": 2,
+                    "name": "MDF",
+                    "total": 200
+                }
+            ]
+        },
+        "category": [
+            {
+                "id": 1,
+                "name": "Motorcycle Parts",
+                "total": 526034,
+                "sub_category": [
+                    {
+                        "id": 1,
+                        "name": "Exhausts",
+                        "total": 26034
+                    },
+                    {
+                        "id": 2,
+                        "name": "Bodyworks",
+                        "total": 300000
+                    },
+                    {
+                        "id": 3,
+                        "name": "Electrical",
+                        "total": 200000
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Accessories",
+                "total": 295,
+                "sub_category": [
+                    {
+                        "id": 4,
+                        "name": "Hand tools",
+                        "total": 90
+                    },
+                    {
+                        "id": 5,
+                        "name": "Electric Tools",
+                        "total": 205
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Motorcycle Gear",
+                "total": 228,
+                "sub_category": [
+                    {
+                        "id": 6,
+                        "name": "Hand tools",
+                        "total": 90
+                    },
+                    {
+                        "id": 7,
+                        "name": "Electric Tools",
+                        "total": 205
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Helmets",
+                "total": 11532,
+                "sub_category": [
+                    {
+                        "id": 8,
+                        "name": "Full Face Helmets",
+                        "total": 502
+                    },
+                    {
+                        "id": 9,
+                        "name": "Modular Helmets",
+                        "total": 30
+                    },
+                    {
+                        "id": 10,
+                        "name": "Shield / Visors",
+                        "total": 6000
+                    },
+                    {
+                        "id": 11,
+                        "name": "Open Face Helmets",
+                        "total": 5000
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Tools",
+                "total": 12,
+                "sub_category": [
+                    {
+                        "id": 12,
+                        "name": "Air tool",
+                        "total": 7
+                    },
+                    {
+                        "id": 13,
+                        "name": "Tool sets",
+                        "total": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "model_info_by_id": {
+        "manufacturer_id": 1,
+        "displacement_id": 3
+    },
+    "my_bike": [
+        {
+            "id": 3,
+            "name": "DUCATI 959 Panigale",
+            "image": "/img/test/products/bike-01.png"
+        },
+        {
+            "id": 32,
+            "name": "HONDA CB400SF (Super Four)",
+            "image": "/img/test/products/bike-02.png"
+        }
+    ],
+    "moto_info": {
+        "id": 13820,
+        "image": "/img/test/products/rebel500.jpg",
+        "name": "HONDA Rebel 500",
+        "statistic": {
+            "products": 362,
+            "new_products": 42,
+            "tools": 255,
+            "reviews": 50
+        },
+        "specifications": [
+            {
+                "name": "Manufacturer",
+                "value": "HONDA"
+            },
+            {
+                "name": "Model Name",
+                "value": "Rebel 500"
+            },
+            {
+                "name": "Power Mode",
+                "value": null
+            },
+            {
+                "name": "Type",
+                "value": null
+            },
+            {
+                "name": "Displacement",
+                "value": "471cc"
+            },
+            {
+                "name": "Tank Capacity",
+                "value": "11.2Liter"
+            },
+            {
+                "name": "Drive Distance",
+                "value": "[26.7km * 11.2]km(Simulation)"
+            },
+            {
+                "name": "Total Weight(Equipment Weight)",
+                "value": "190kg"
+            },
+            {
+                "name": "Length・ Height・Width",
+                "value": "2190mm × 1090mm × 820mm"
+            },
+            {
+                "name": "Seat Height",
+                "value": "690mm"
+            },
+            {
+                "name": "Front Wheel Size",
+                "value": null
+            },
+            {
+                "name": "Rear Wheel Size",
+                "value": null
+            }
+        ]
+    },
+    "accessories_by_motor": [
+        {
+            "id": 1,
+            "name": "Motorcycle Parts",
+            "image": "/img/test/products/category-02.png",
+            "total": 526034,
+            "sub_category": [
+                {
+                    "id": 1,
+                    "name": "Exhausts",
+                    "image": "/img/test/products/category-01.png",
+                    "total": 26034
+                },
+                {
+                    "id": 2,
+                    "name": "Bodyworks",
+                    "image": "/img/test/products/category-06.png",
+                    "total": 300000
+                },
+                {
+                    "id": 3,
+                    "name": "Electrical",
+                    "image": "/img/test/products/category-03.png",
+                    "total": 200000
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Accessories",
+            "image": "/img/test/products/category-04.png",
+            "total": 295,
+            "sub_category": [
+                {
+                    "id": 4,
+                    "name": "Hand tools",
+                    "image": "/img/test/products/category-12.png",
+                    "total": 90
+                },
+                {
+                    "id": 5,
+                    "name": "Electric Tools",
+                    "image": "/img/test/products/category-022.png",
+                    "total": 205
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Tools",
+            "image": "/img/test/products/category-08.png",
+            "total": 228,
+            "sub_category": [
+                {
+                    "id": 6,
+                    "name": "Hand tools",
+                    "image": "/img/test/products/category-04.png",
+                    "total": 90
+                },
+                {
+                    "id": 7,
+                    "name": "Electric Tools",
+                    "image": "/img/test/products/category-04.png",
+                    "total": 205
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Helmets",
+            "image": "/img/test/products/category-05.png",
+            "total": 11532,
+            "sub_category": [
+                {
+                    "id": 8,
+                    "name": "Full Face Helmets",
+                    "image": "/img/test/products/sub-category-01.png",
+                    "total": 502
+                },
+                {
+                    "id": 9,
+                    "name": "Modular Helmets",
+                    "image": "/img/test/products/sub-category-02.png",
+                    "total": 30
+                },
+                {
+                    "id": 10,
+                    "name": "Shield / Visors",
+                    "image": "/img/test/products/sub-category-08.png",
+                    "total": 6000
+                },
+                {
+                    "id": 11,
+                    "name": "Open Face Helmets",
+                    "image": "/img/test/products/sub-category-07.png",
+                    "total": 5000
+                }
+            ]
+        }
+    ]
+}
